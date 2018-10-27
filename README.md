@@ -11,13 +11,13 @@ Because of limitation of data being used, in this implementation, we are only ig
 Also, to model data in better way with HMM, we are cosidering signal to have states B1-QRS-B2-T-B3 rather than B-QRS-B-T-B, so as to simplify HMM architecture which can learn distribution in much better way.
 
 
-Requirements: Python Libraries 
-pomegranate 
-Matplotlib
-Numpy
-pywt
-sklearn
-
+Requirements: Python Libraries \n
+pomegranate \n
+Matplotlib \n
+Numpy\n
+pywt \n
+sklearn \n
+ 
 
 Results:
 Simple Matching Coefficient percent accuracy on train set: 80.4071 %
