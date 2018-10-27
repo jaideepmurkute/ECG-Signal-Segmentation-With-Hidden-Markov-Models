@@ -890,5 +890,5 @@ def readfiles(mypath):
        
         
 if __name__ == "__main__":
-    filepath = "F:\\Courses\\IndStudy\\ActiveLearning-20180522T155005Z-001\\ActiveLearning\\ Sourabh Khasbag\\Final Submission\\ECGDATA\\ECGDATA\\Truncated\\Normative\\"
+    filepath = "ECGDATA\\Truncated\\Normative\\"
     readfiles(filepath)
