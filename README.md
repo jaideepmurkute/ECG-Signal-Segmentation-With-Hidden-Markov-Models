@@ -24,5 +24,6 @@ B3: 0.69598
 T: 0.461033
 B3: 0.695356
 
+<img src="/sample.png" width="600" height="400"> 
 
 Future Improvements: Using Hidden Semi-Markov Models(HSMM) instead of standard HMM is a promising direction. Currently facing implementation issuees with the same. Repo will be updated once all issues in code with HSMM have been resolved.
